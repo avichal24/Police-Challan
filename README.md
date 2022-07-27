@@ -26,8 +26,7 @@ we get the highest accuracy of prediction.
 ### 1. Simple Imputer:
 
 The Dataset contained ertain Missing Values in it, for which I used the most common Data Preprocessing tool of Machine Learning library that is Simple Imputer, and replaced the missing values with the 'Most Frequent Values'.
-https://user-images.githubusercontent.com/109500969/179671707-703f2183-92a1-4103-b0cf-3927173d146d.png
-
+![SI](https://user-images.githubusercontent.com/109500969/181174314-a2a04e59-dcb9-46b7-be01-e65b552fa215.png)
 
 
 ### 2. Label Encoder
@@ -37,6 +36,8 @@ we need to encode all the catagorical data, so
 that the model can analyse it better, and all the 
 values are stored in the form of matrix of features and makes it
 a way more easier to apply machine learning algorithms.
+![Label encoding](https://user-images.githubusercontent.com/109500969/181174309-3a97b7f1-e371-4900-8c2d-56c1b645b959.jpg)
+
 ## Deployment
 
 To deploy this project run
